@@ -18,6 +18,7 @@ git checkout develop
 docker exec symfony-php composer install
 
 Open http://localhost:8100 in the browser of your choice and you'll see the Symfony default page
+```
 
 ## Install Symfony Webapp
 
